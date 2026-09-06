@@ -1,0 +1,284 @@
+{
+  "top_discovered_families": [
+    {
+      "candidate_key": "credential_abuse:T1110",
+      "category": "credential_abuse",
+      "technique": "T1110",
+      "incident_ids": [
+        "INC-0001",
+        "INC-0002",
+        "INC-0003",
+        "INC-0004",
+        "INC-0005",
+        "INC-0006",
+        "INC-0007",
+        "INC-0008",
+        "INC-0009",
+        "INC-0010",
+        "INC-0011",
+        "INC-0012",
+        "INC-0013",
+        "INC-0014",
+        "INC-0015",
+        "INC-0016",
+        "INC-0017",
+        "INC-0018",
+        "INC-0019",
+        "INC-0020"
+      ],
+      "count": 20,
+      "mean_interval_days": 13.79
+    },
+    {
+      "candidate_key": "cloud_misconfiguration:T1548",
+      "category": "cloud_misconfiguration",
+      "technique": "T1548",
+      "incident_ids": [
+        "INC-0021",
+        "INC-0022",
+        "INC-0023",
+        "INC-0024",
+        "INC-0025",
+        "INC-0026",
+        "INC-0027",
+        "INC-0028",
+        "INC-0029",
+        "INC-0030",
+        "INC-0031",
+        "INC-0032",
+        "INC-0033",
+        "INC-0034",
+        "INC-0035",
+        "INC-0036",
+        "INC-0037",
+        "INC-0038",
+        "INC-0039",
+        "INC-0040"
+      ],
+      "count": 20,
+      "mean_interval_days": 14.37
+    },
+    {
+      "candidate_key": "service_account_abuse:T1550",
+      "category": "service_account_abuse",
+      "technique": "T1550",
+      "incident_ids": [
+        "INC-0041",
+        "INC-0042",
+        "INC-0043",
+        "INC-0044",
+        "INC-0045",
+        "INC-0046",
+        "INC-0047",
+        "INC-0048",
+        "INC-0049",
+        "INC-0050",
+        "INC-0051",
+        "INC-0052",
+        "INC-0053",
+        "INC-0054",
+        "INC-0055",
+        "INC-0056",
+        "INC-0057",
+        "INC-0058",
+        "INC-0059",
+        "INC-0060"
+      ],
+      "count": 20,
+      "mean_interval_days": 15.47
+    },
+    {
+      "candidate_key": "api_credential_exposure:T1552",
+      "category": "api_credential_exposure",
+      "technique": "T1552",
+      "incident_ids": [
+        "INC-0061",
+        "INC-0062",
+        "INC-0063",
+        "INC-0064",
+        "INC-0065",
+        "INC-0066",
+        "INC-0067",
+        "INC-0068",
+        "INC-0069",
+        "INC-0070",
+        "INC-0071",
+        "INC-0072",
+        "INC-0073",
+        "INC-0074",
+        "INC-0075",
+        "INC-0076",
+        "INC-0077",
+        "INC-0078",
+        "INC-0079",
+        "INC-0080"
+      ],
+      "count": 20,
+      "mean_interval_days": 12.63
+    },
+    {
+      "candidate_key": "lateral_movement:T1021",
+      "category": "lateral_movement",
+      "technique": "T1021",
+      "incident_ids": [
+        "INC-0081",
+        "INC-0082",
+        "INC-0083",
+        "INC-0084",
+        "INC-0085",
+        "INC-0086",
+        "INC-0087",
+        "INC-0088",
+        "INC-0089",
+        "INC-0090",
+        "INC-0091",
+        "INC-0092",
+        "INC-0093",
+        "INC-0094",
+        "INC-0095",
+        "INC-0096",
+        "INC-0097",
+        "INC-0098",
+        "INC-0099",
+        "INC-0100"
+      ],
+      "count": 20,
+      "mean_interval_days": 13.42
+    }
+  ],
+  "sample_incident": "INC-0001",
+  "sample_recurrence": {
+    "incident_count": 20,
+    "first_seen": "2026-01-10T09:00:00",
+    "last_seen": "2026-09-29T09:00:00",
+    "intervals_days": [
+      10.0,
+      8.0,
+      12.0,
+      10.0,
+      9.0,
+      3.0,
+      3.0,
+      4.0,
+      4.0,
+      9.0,
+      6.0,
+      8.0,
+      7.0,
+      7.0,
+      26.0,
+      34.0,
+      41.0,
+      22.0,
+      39.0
+    ],
+    "mean_interval_days": 13.79,
+    "minimum_interval_days": 3.0,
+    "maximum_interval_days": 41.0,
+    "trend": "slowing"
+  },
+  "sample_change_links": [
+    {
+      "change_id": "CHG-00001",
+      "days_before": 1.42,
+      "change_type": "iam"
+    }
+  ],
+  "sample_remediation_effectiveness": [
+    {
+      "remediation_id": "REM-00020",
+      "action": "Enforce phishing-resistant MFA and tighten identity policy.",
+      "recurrence_free_days": null,
+      "owner": "Network",
+      "target": "AST-001",
+      "historical_label": "strong"
+    },
+    {
+      "remediation_id": "REM-00017",
+      "action": "Enforce phishing-resistant MFA and tighten identity policy.",
+      "recurrence_free_days": 40.88,
+      "owner": "IAM",
+      "target": "AST-001",
+      "historical_label": "strong"
+    },
+    {
+      "remediation_id": "REM-00019",
+      "action": "Enforce phishing-resistant MFA and tighten identity policy.",
+      "recurrence_free_days": 38.75,
+      "owner": "Network",
+      "target": "AST-027",
+      "historical_label": "strong"
+    },
+    {
+      "remediation_id": "REM-00016",
+      "action": "Enforce phishing-resistant MFA and tighten identity policy.",
+      "recurrence_free_days": 33.75,
+      "owner": "IAM",
+      "target": "AST-002",
+      "historical_label": "strong"
+    },
+    {
+      "remediation_id": "REM-00015",
+      "action": "Reset affected credentials and temporarily disable the account.",
+      "recurrence_free_days": 25.88,
+      "owner": "IAM",
+      "target": "AST-001",
+      "historical_label": "weak"
+    }
+  ],
+  "operational_debt": [
+    {
+      "family_id": "FAM-API-01",
+      "incident_count": 20,
+      "weak_remediation_count": 15,
+      "short_recurrence_fix_count": 15,
+      "frequency_per_30d": 2.5,
+      "average_severity_weight": 2.55,
+      "debt_score": 68.8
+    },
+    {
+      "family_id": "FAM-LAT-01",
+      "incident_count": 20,
+      "weak_remediation_count": 15,
+      "short_recurrence_fix_count": 15,
+      "frequency_per_30d": 2.35,
+      "average_severity_weight": 2.7,
+      "debt_score": 68.8
+    },
+    {
+      "family_id": "FAM-IDENTITY-01",
+      "incident_count": 20,
+      "weak_remediation_count": 15,
+      "short_recurrence_fix_count": 15,
+      "frequency_per_30d": 2.29,
+      "average_severity_weight": 2.55,
+      "debt_score": 68.4
+    },
+    {
+      "family_id": "FAM-CLOUD-01",
+      "incident_count": 20,
+      "weak_remediation_count": 15,
+      "short_recurrence_fix_count": 15,
+      "frequency_per_30d": 2.2,
+      "average_severity_weight": 2.65,
+      "debt_score": 68.4
+    },
+    {
+      "family_id": "FAM-SVC-01",
+      "incident_count": 20,
+      "weak_remediation_count": 15,
+      "short_recurrence_fix_count": 15,
+      "frequency_per_30d": 2.04,
+      "average_severity_weight": 2.45,
+      "debt_score": 67.8
+    }
+  ],
+  "sample_detection_gaps": [
+    {
+      "technique": "T1110",
+      "gap_type": "correlation_gap",
+      "reason": "Single-event coverage exists, but sequence-level authentication correlation is absent."
+    }
+  ],
+  "drift_count": 90
+}

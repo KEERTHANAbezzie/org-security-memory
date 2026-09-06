@@ -1,0 +1,789 @@
+{
+  "seed": 20260906,
+  "families": {
+    "FAM-IDENTITY-01": {
+      "name": "Credential Abuse / Identity Control",
+      "incident_ids": [
+        "INC-0001",
+        "INC-0002",
+        "INC-0003",
+        "INC-0004",
+        "INC-0005",
+        "INC-0006",
+        "INC-0007",
+        "INC-0008",
+        "INC-0009",
+        "INC-0010",
+        "INC-0011",
+        "INC-0012",
+        "INC-0013",
+        "INC-0014",
+        "INC-0015",
+        "INC-0016",
+        "INC-0017",
+        "INC-0018",
+        "INC-0019",
+        "INC-0020"
+      ],
+      "weak_remediation_ids": [
+        "REM-00001",
+        "REM-00002",
+        "REM-00003",
+        "REM-00004",
+        "REM-00005",
+        "REM-00006",
+        "REM-00007",
+        "REM-00008",
+        "REM-00009",
+        "REM-00010",
+        "REM-00011",
+        "REM-00012",
+        "REM-00013",
+        "REM-00014",
+        "REM-00015"
+      ],
+      "strong_remediation_ids": [
+        "REM-00016",
+        "REM-00017",
+        "REM-00018",
+        "REM-00019",
+        "REM-00020"
+      ],
+      "expected_gap_type": "correlation_gap"
+    },
+    "FAM-CLOUD-01": {
+      "name": "Cloud Permission Misconfiguration",
+      "incident_ids": [
+        "INC-0021",
+        "INC-0022",
+        "INC-0023",
+        "INC-0024",
+        "INC-0025",
+        "INC-0026",
+        "INC-0027",
+        "INC-0028",
+        "INC-0029",
+        "INC-0030",
+        "INC-0031",
+        "INC-0032",
+        "INC-0033",
+        "INC-0034",
+        "INC-0035",
+        "INC-0036",
+        "INC-0037",
+        "INC-0038",
+        "INC-0039",
+        "INC-0040"
+      ],
+      "weak_remediation_ids": [
+        "REM-00021",
+        "REM-00022",
+        "REM-00023",
+        "REM-00024",
+        "REM-00025",
+        "REM-00026",
+        "REM-00027",
+        "REM-00028",
+        "REM-00029",
+        "REM-00030",
+        "REM-00031",
+        "REM-00032",
+        "REM-00033",
+        "REM-00034",
+        "REM-00035"
+      ],
+      "strong_remediation_ids": [
+        "REM-00036",
+        "REM-00037",
+        "REM-00038",
+        "REM-00039",
+        "REM-00040"
+      ],
+      "expected_gap_type": "missing_rule"
+    },
+    "FAM-SVC-01": {
+      "name": "Suspicious Service Account Activity",
+      "incident_ids": [
+        "INC-0041",
+        "INC-0042",
+        "INC-0043",
+        "INC-0044",
+        "INC-0045",
+        "INC-0046",
+        "INC-0047",
+        "INC-0048",
+        "INC-0049",
+        "INC-0050",
+        "INC-0051",
+        "INC-0052",
+        "INC-0053",
+        "INC-0054",
+        "INC-0055",
+        "INC-0056",
+        "INC-0057",
+        "INC-0058",
+        "INC-0059",
+        "INC-0060"
+      ],
+      "weak_remediation_ids": [
+        "REM-00041",
+        "REM-00042",
+        "REM-00043",
+        "REM-00044",
+        "REM-00045",
+        "REM-00046",
+        "REM-00047",
+        "REM-00048",
+        "REM-00049",
+        "REM-00050",
+        "REM-00051",
+        "REM-00052",
+        "REM-00053",
+        "REM-00054",
+        "REM-00055"
+      ],
+      "strong_remediation_ids": [
+        "REM-00056",
+        "REM-00057",
+        "REM-00058",
+        "REM-00059",
+        "REM-00060"
+      ],
+      "expected_gap_type": "ineffective_rule"
+    },
+    "FAM-API-01": {
+      "name": "Exposed API Credential",
+      "incident_ids": [
+        "INC-0061",
+        "INC-0062",
+        "INC-0063",
+        "INC-0064",
+        "INC-0065",
+        "INC-0066",
+        "INC-0067",
+        "INC-0068",
+        "INC-0069",
+        "INC-0070",
+        "INC-0071",
+        "INC-0072",
+        "INC-0073",
+        "INC-0074",
+        "INC-0075",
+        "INC-0076",
+        "INC-0077",
+        "INC-0078",
+        "INC-0079",
+        "INC-0080"
+      ],
+      "weak_remediation_ids": [
+        "REM-00061",
+        "REM-00062",
+        "REM-00063",
+        "REM-00064",
+        "REM-00065",
+        "REM-00066",
+        "REM-00067",
+        "REM-00068",
+        "REM-00069",
+        "REM-00070",
+        "REM-00071",
+        "REM-00072",
+        "REM-00073",
+        "REM-00074",
+        "REM-00075"
+      ],
+      "strong_remediation_ids": [
+        "REM-00076",
+        "REM-00077",
+        "REM-00078",
+        "REM-00079",
+        "REM-00080"
+      ],
+      "expected_gap_type": "missing_telemetry"
+    },
+    "FAM-LAT-01": {
+      "name": "Lateral Movement",
+      "incident_ids": [
+        "INC-0081",
+        "INC-0082",
+        "INC-0083",
+        "INC-0084",
+        "INC-0085",
+        "INC-0086",
+        "INC-0087",
+        "INC-0088",
+        "INC-0089",
+        "INC-0090",
+        "INC-0091",
+        "INC-0092",
+        "INC-0093",
+        "INC-0094",
+        "INC-0095",
+        "INC-0096",
+        "INC-0097",
+        "INC-0098",
+        "INC-0099",
+        "INC-0100"
+      ],
+      "weak_remediation_ids": [
+        "REM-00081",
+        "REM-00082",
+        "REM-00083",
+        "REM-00084",
+        "REM-00085",
+        "REM-00086",
+        "REM-00087",
+        "REM-00088",
+        "REM-00089",
+        "REM-00090",
+        "REM-00091",
+        "REM-00092",
+        "REM-00093",
+        "REM-00094",
+        "REM-00095"
+      ],
+      "strong_remediation_ids": [
+        "REM-00096",
+        "REM-00097",
+        "REM-00098",
+        "REM-00099",
+        "REM-00100"
+      ],
+      "expected_gap_type": "unmonitored_asset"
+    }
+  },
+  "blind_spots": [
+    {
+      "family_id": "FAM-IDENTITY-01",
+      "technique": "T1110",
+      "gap_type": "correlation_gap",
+      "rationale": "Authentication sequence lacked cross-source correlation."
+    },
+    {
+      "family_id": "FAM-CLOUD-01",
+      "technique": "T1548",
+      "gap_type": "missing_rule",
+      "rationale": "No active rule directly covered the observed escalation pattern."
+    },
+    {
+      "family_id": "FAM-SVC-01",
+      "technique": "T1550",
+      "gap_type": "ineffective_rule",
+      "rationale": "Existing service-account rule fired inconsistently."
+    },
+    {
+      "family_id": "FAM-API-01",
+      "technique": "T1552",
+      "gap_type": "missing_telemetry",
+      "rationale": "Repository/secret telemetry was unavailable for the affected path."
+    },
+    {
+      "family_id": "FAM-LAT-01",
+      "technique": "T1021",
+      "gap_type": "unmonitored_asset",
+      "rationale": "East-west traffic from one administrative segment lacked monitoring."
+    }
+  ],
+  "temporal_links": [
+    {
+      "incident_id": "INC-0001",
+      "change_id": "CHG-00001",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0002",
+      "change_id": "CHG-00002",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0003",
+      "change_id": "CHG-00003",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0004",
+      "change_id": "CHG-00004",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0005",
+      "change_id": "CHG-00005",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0006",
+      "change_id": "CHG-00006",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0007",
+      "change_id": "CHG-00007",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0008",
+      "change_id": "CHG-00008",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0009",
+      "change_id": "CHG-00009",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0010",
+      "change_id": "CHG-00010",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0011",
+      "change_id": "CHG-00011",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0012",
+      "change_id": "CHG-00012",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0013",
+      "change_id": "CHG-00013",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0014",
+      "change_id": "CHG-00014",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0015",
+      "change_id": "CHG-00015",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0016",
+      "change_id": "CHG-00016",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0017",
+      "change_id": "CHG-00017",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0018",
+      "change_id": "CHG-00018",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0019",
+      "change_id": "CHG-00019",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0020",
+      "change_id": "CHG-00020",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0021",
+      "change_id": "CHG-00021",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0022",
+      "change_id": "CHG-00022",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0023",
+      "change_id": "CHG-00023",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0024",
+      "change_id": "CHG-00024",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0025",
+      "change_id": "CHG-00025",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0026",
+      "change_id": "CHG-00026",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0027",
+      "change_id": "CHG-00027",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0028",
+      "change_id": "CHG-00028",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0029",
+      "change_id": "CHG-00029",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0030",
+      "change_id": "CHG-00030",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0031",
+      "change_id": "CHG-00031",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0032",
+      "change_id": "CHG-00032",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0033",
+      "change_id": "CHG-00033",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0034",
+      "change_id": "CHG-00034",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0035",
+      "change_id": "CHG-00035",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0036",
+      "change_id": "CHG-00036",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0037",
+      "change_id": "CHG-00037",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0038",
+      "change_id": "CHG-00038",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0039",
+      "change_id": "CHG-00039",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0040",
+      "change_id": "CHG-00040",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0041",
+      "change_id": "CHG-00041",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0042",
+      "change_id": "CHG-00042",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0043",
+      "change_id": "CHG-00043",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0044",
+      "change_id": "CHG-00044",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0045",
+      "change_id": "CHG-00045",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0046",
+      "change_id": "CHG-00046",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0047",
+      "change_id": "CHG-00047",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0048",
+      "change_id": "CHG-00048",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0049",
+      "change_id": "CHG-00049",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0050",
+      "change_id": "CHG-00050",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0051",
+      "change_id": "CHG-00051",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0052",
+      "change_id": "CHG-00052",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0053",
+      "change_id": "CHG-00053",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0054",
+      "change_id": "CHG-00054",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0055",
+      "change_id": "CHG-00055",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0056",
+      "change_id": "CHG-00056",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0057",
+      "change_id": "CHG-00057",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0058",
+      "change_id": "CHG-00058",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0059",
+      "change_id": "CHG-00059",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0060",
+      "change_id": "CHG-00060",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0061",
+      "change_id": "CHG-00061",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0062",
+      "change_id": "CHG-00062",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0063",
+      "change_id": "CHG-00063",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0064",
+      "change_id": "CHG-00064",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0065",
+      "change_id": "CHG-00065",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0066",
+      "change_id": "CHG-00066",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0067",
+      "change_id": "CHG-00067",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0068",
+      "change_id": "CHG-00068",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0069",
+      "change_id": "CHG-00069",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0070",
+      "change_id": "CHG-00070",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0071",
+      "change_id": "CHG-00071",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0072",
+      "change_id": "CHG-00072",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0073",
+      "change_id": "CHG-00073",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0074",
+      "change_id": "CHG-00074",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0075",
+      "change_id": "CHG-00075",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0076",
+      "change_id": "CHG-00076",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0077",
+      "change_id": "CHG-00077",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0078",
+      "change_id": "CHG-00078",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0079",
+      "change_id": "CHG-00079",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0080",
+      "change_id": "CHG-00080",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0081",
+      "change_id": "CHG-00081",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0082",
+      "change_id": "CHG-00082",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0083",
+      "change_id": "CHG-00083",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0084",
+      "change_id": "CHG-00084",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0085",
+      "change_id": "CHG-00085",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0086",
+      "change_id": "CHG-00086",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0087",
+      "change_id": "CHG-00087",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0088",
+      "change_id": "CHG-00088",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0089",
+      "change_id": "CHG-00089",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0090",
+      "change_id": "CHG-00090",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0091",
+      "change_id": "CHG-00091",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0092",
+      "change_id": "CHG-00092",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0093",
+      "change_id": "CHG-00093",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0094",
+      "change_id": "CHG-00094",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0095",
+      "change_id": "CHG-00095",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0096",
+      "change_id": "CHG-00096",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0097",
+      "change_id": "CHG-00097",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0098",
+      "change_id": "CHG-00098",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0099",
+      "change_id": "CHG-00099",
+      "max_preceding_days": 7
+    },
+    {
+      "incident_id": "INC-0100",
+      "change_id": "CHG-00100",
+      "max_preceding_days": 7
+    }
+  ]
+}

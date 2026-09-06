@@ -1,0 +1,356 @@
+[
+  {
+    "id": "RULE-001",
+    "name": "Impossible Travel Authentication",
+    "logic": "Detects impossible travel authentication.",
+    "telemetry_requirements": [
+      "auth",
+      "identity"
+    ],
+    "alert_volume": 57,
+    "true_positive_count": 22,
+    "false_positive_count": 31,
+    "effectiveness": 0.88,
+    "enabled": true,
+    "techniques": [
+      "T1078"
+    ]
+  },
+  {
+    "id": "RULE-002",
+    "name": "Repeated Authentication Failures",
+    "logic": "Detects repeated authentication failures.",
+    "telemetry_requirements": [
+      "auth"
+    ],
+    "alert_volume": 84,
+    "true_positive_count": 9,
+    "false_positive_count": 4,
+    "effectiveness": 0.62,
+    "enabled": true,
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "RULE-003",
+    "name": "Privileged IAM Policy Change",
+    "logic": "Detects privileged iam policy change.",
+    "telemetry_requirements": [
+      "iam-audit"
+    ],
+    "alert_volume": 85,
+    "true_positive_count": 35,
+    "false_positive_count": 18,
+    "effectiveness": 0.91,
+    "enabled": true,
+    "techniques": [
+      "T1098"
+    ]
+  },
+  {
+    "id": "RULE-004",
+    "name": "Cloud Permission Escalation",
+    "logic": "Detects cloud permission escalation.",
+    "telemetry_requirements": [
+      "cloudtrail",
+      "iam-audit"
+    ],
+    "alert_volume": 86,
+    "true_positive_count": 3,
+    "false_positive_count": 5,
+    "effectiveness": 0.84,
+    "enabled": false,
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "RULE-005",
+    "name": "Service Account Token Anomaly",
+    "logic": "Detects service account token anomaly.",
+    "telemetry_requirements": [
+      "service-mesh"
+    ],
+    "alert_volume": 35,
+    "true_positive_count": 19,
+    "false_positive_count": 21,
+    "effectiveness": 0.42,
+    "enabled": true,
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "RULE-006",
+    "name": "API Key Exposure Pattern",
+    "logic": "Detects api key exposure pattern.",
+    "telemetry_requirements": [
+      "repo-scan"
+    ],
+    "alert_volume": 29,
+    "true_positive_count": 10,
+    "false_positive_count": 9,
+    "effectiveness": 0.79,
+    "enabled": true,
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "RULE-007",
+    "name": "East-West Remote Service Access",
+    "logic": "Detects east-west remote service access.",
+    "telemetry_requirements": [
+      "netflow"
+    ],
+    "alert_volume": 16,
+    "true_positive_count": 17,
+    "false_positive_count": 17,
+    "effectiveness": 0.55,
+    "enabled": true,
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "RULE-008",
+    "name": "Network Discovery Burst",
+    "logic": "Detects network discovery burst.",
+    "telemetry_requirements": [
+      "netflow"
+    ],
+    "alert_volume": 62,
+    "true_positive_count": 27,
+    "false_positive_count": 12,
+    "effectiveness": 0.73,
+    "enabled": true,
+    "techniques": [
+      "T1046"
+    ]
+  },
+  {
+    "id": "RULE-009",
+    "name": "Generic Privileged Login",
+    "logic": "Detects generic privileged login.",
+    "telemetry_requirements": [
+      "auth"
+    ],
+    "alert_volume": 20,
+    "true_positive_count": 25,
+    "false_positive_count": 30,
+    "effectiveness": 0.31,
+    "enabled": true,
+    "techniques": [
+      "T1078"
+    ]
+  },
+  {
+    "id": "RULE-010",
+    "name": "Suspicious Secret Vault Read",
+    "logic": "Detects suspicious secret vault read.",
+    "telemetry_requirements": [
+      "vault-audit"
+    ],
+    "alert_volume": 20,
+    "true_positive_count": 34,
+    "false_positive_count": 18,
+    "effectiveness": 0.81,
+    "enabled": true,
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "RULE-011",
+    "name": "Developer Credential Commit",
+    "logic": "Detects developer credential commit.",
+    "telemetry_requirements": [
+      "repo-scan"
+    ],
+    "alert_volume": 90,
+    "true_positive_count": 6,
+    "false_positive_count": 35,
+    "effectiveness": 0.93,
+    "enabled": true,
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "RULE-012",
+    "name": "IAM Drift Outside Change Window",
+    "logic": "Detects iam drift outside change window.",
+    "telemetry_requirements": [
+      "iam-audit"
+    ],
+    "alert_volume": 72,
+    "true_positive_count": 30,
+    "false_positive_count": 13,
+    "effectiveness": 0.87,
+    "enabled": true,
+    "techniques": [
+      "T1098"
+    ]
+  },
+  {
+    "id": "RULE-013",
+    "name": "Service Identity Access Spike",
+    "logic": "Detects service identity access spike.",
+    "telemetry_requirements": [
+      "service-mesh"
+    ],
+    "alert_volume": 54,
+    "true_positive_count": 18,
+    "false_positive_count": 13,
+    "effectiveness": 0.39,
+    "enabled": true,
+    "techniques": [
+      "T1078"
+    ]
+  },
+  {
+    "id": "RULE-014",
+    "name": "Administrative SMB Burst",
+    "logic": "Detects administrative smb burst.",
+    "telemetry_requirements": [
+      "netflow"
+    ],
+    "alert_volume": 81,
+    "true_positive_count": 16,
+    "false_positive_count": 5,
+    "effectiveness": 0.69,
+    "enabled": true,
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "RULE-015",
+    "name": "Unusual Internal Port Sweep",
+    "logic": "Detects unusual internal port sweep.",
+    "telemetry_requirements": [
+      "netflow"
+    ],
+    "alert_volume": 15,
+    "true_positive_count": 3,
+    "false_positive_count": 37,
+    "effectiveness": 0.77,
+    "enabled": true,
+    "techniques": [
+      "T1046"
+    ]
+  },
+  {
+    "id": "RULE-016",
+    "name": "Cloud Audit Logging Disabled",
+    "logic": "Detects cloud audit logging disabled.",
+    "telemetry_requirements": [
+      "cloudtrail"
+    ],
+    "alert_volume": 79,
+    "true_positive_count": 27,
+    "false_positive_count": 32,
+    "effectiveness": 0.9,
+    "enabled": true,
+    "techniques": [
+      "T1562"
+    ]
+  },
+  {
+    "id": "RULE-017",
+    "name": "Sensitive Data API Access",
+    "logic": "Detects sensitive data api access.",
+    "telemetry_requirements": [
+      "api-gateway"
+    ],
+    "alert_volume": 74,
+    "true_positive_count": 5,
+    "false_positive_count": 32,
+    "effectiveness": 0.68,
+    "enabled": true,
+    "techniques": [
+      "T1213"
+    ]
+  },
+  {
+    "id": "RULE-018",
+    "name": "Token Replay Heuristic",
+    "logic": "Detects token replay heuristic.",
+    "telemetry_requirements": [
+      "auth"
+    ],
+    "alert_volume": 62,
+    "true_positive_count": 22,
+    "false_positive_count": 13,
+    "effectiveness": 0.46,
+    "enabled": true,
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "RULE-019",
+    "name": "Endpoint Isolation Trigger",
+    "logic": "Detects endpoint isolation trigger.",
+    "telemetry_requirements": [
+      "endpoint"
+    ],
+    "alert_volume": 34,
+    "true_positive_count": 6,
+    "false_positive_count": 15,
+    "effectiveness": 0.74,
+    "enabled": true,
+    "techniques": [
+      "T1562"
+    ]
+  },
+  {
+    "id": "RULE-020",
+    "name": "Known Malicious Indicator Match",
+    "logic": "Detects known malicious indicator match.",
+    "telemetry_requirements": [
+      "siem"
+    ],
+    "alert_volume": 60,
+    "true_positive_count": 21,
+    "false_positive_count": 29,
+    "effectiveness": 0.58,
+    "enabled": true,
+    "techniques": [
+      "T1204"
+    ]
+  },
+  {
+    "id": "RULE-021",
+    "name": "Noisy Authentication Baseline",
+    "logic": "Detects noisy authentication baseline.",
+    "telemetry_requirements": [
+      "auth"
+    ],
+    "alert_volume": 84,
+    "true_positive_count": 11,
+    "false_positive_count": 7,
+    "effectiveness": 0.19,
+    "enabled": true,
+    "techniques": [
+      "T1078"
+    ]
+  },
+  {
+    "id": "RULE-022",
+    "name": "Privileged Service Account Change",
+    "logic": "Detects privileged service account change.",
+    "telemetry_requirements": [
+      "iam-audit"
+    ],
+    "alert_volume": 24,
+    "true_positive_count": 12,
+    "false_positive_count": 31,
+    "effectiveness": 0.83,
+    "enabled": true,
+    "techniques": [
+      "T1078"
+    ]
+  }
+]

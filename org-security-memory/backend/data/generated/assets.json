@@ -1,0 +1,388 @@
+[
+  {
+    "id": "AST-001",
+    "name": "idp-prod-01",
+    "asset_type": "identity",
+    "owner": "IAM",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "auth",
+      "identity"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-002",
+    "name": "vpn-prod-01",
+    "asset_type": "network",
+    "owner": "Network",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-003",
+    "name": "payments-api-01",
+    "asset_type": "service",
+    "owner": "Payments",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-004",
+    "name": "order-service-01",
+    "asset_type": "service",
+    "owner": "Commerce",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-005",
+    "name": "cloud-iam-prod",
+    "asset_type": "cloud",
+    "owner": "CloudSec",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "cloudtrail",
+      "iam-audit"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-006",
+    "name": "object-store-prod",
+    "asset_type": "cloud",
+    "owner": "Data",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-007",
+    "name": "api-gateway-prod",
+    "asset_type": "service",
+    "owner": "Platform",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "api-gateway"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-008",
+    "name": "developer-portal",
+    "asset_type": "service",
+    "owner": "Developer",
+    "environment": "prod",
+    "criticality": "medium",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-009",
+    "name": "endpoint-mgmt",
+    "asset_type": "platform",
+    "owner": "IT",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-010",
+    "name": "internal-network-core",
+    "asset_type": "network",
+    "owner": "Network",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-011",
+    "name": "ci-runner-01",
+    "asset_type": "compute",
+    "owner": "DevOps",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "partial"
+  },
+  {
+    "id": "AST-012",
+    "name": "analytics-prod",
+    "asset_type": "service",
+    "owner": "Data",
+    "environment": "prod",
+    "criticality": "medium",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-013",
+    "name": "hr-portal",
+    "asset_type": "service",
+    "owner": "HR",
+    "environment": "prod",
+    "criticality": "medium",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-014",
+    "name": "bastion-prod",
+    "asset_type": "compute",
+    "owner": "Infrastructure",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-015",
+    "name": "customer-db",
+    "asset_type": "database",
+    "owner": "Data",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-016",
+    "name": "dev-cluster",
+    "asset_type": "cluster",
+    "owner": "Engineering",
+    "environment": "prod",
+    "criticality": "medium",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "partial"
+  },
+  {
+    "id": "AST-017",
+    "name": "staging-api",
+    "asset_type": "service",
+    "owner": "Platform",
+    "environment": "prod",
+    "criticality": "medium",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-018",
+    "name": "logging-cluster",
+    "asset_type": "platform",
+    "owner": "Security",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-019",
+    "name": "siem-collector",
+    "asset_type": "security",
+    "owner": "Security",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-020",
+    "name": "admin-workstation-01",
+    "asset_type": "endpoint",
+    "owner": "IT",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-021",
+    "name": "admin-workstation-02",
+    "asset_type": "endpoint",
+    "owner": "IT",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "netflow"
+    ],
+    "monitoring_status": "partial"
+  },
+  {
+    "id": "AST-022",
+    "name": "service-mesh-prod",
+    "asset_type": "platform",
+    "owner": "Platform",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "service-mesh"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-023",
+    "name": "secrets-vault",
+    "asset_type": "security",
+    "owner": "Security",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "vault-audit"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-024",
+    "name": "mail-gateway",
+    "asset_type": "network",
+    "owner": "Messaging",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-025",
+    "name": "backup-service",
+    "asset_type": "service",
+    "owner": "Infrastructure",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-026",
+    "name": "data-lake",
+    "asset_type": "cloud",
+    "owner": "Data",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-027",
+    "name": "sso-proxy",
+    "asset_type": "identity",
+    "owner": "IAM",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-028",
+    "name": "monitoring-core",
+    "asset_type": "platform",
+    "owner": "SRE",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-029",
+    "name": "finance-erp",
+    "asset_type": "service",
+    "owner": "Finance",
+    "environment": "prod",
+    "criticality": "critical",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  },
+  {
+    "id": "AST-030",
+    "name": "branch-gateway",
+    "asset_type": "network",
+    "owner": "Network",
+    "environment": "prod",
+    "criticality": "high",
+    "telemetry_sources": [
+      "syslog",
+      "metrics"
+    ],
+    "monitoring_status": "full"
+  }
+]

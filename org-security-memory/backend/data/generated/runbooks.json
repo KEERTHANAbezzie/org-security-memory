@@ -1,0 +1,42 @@
+[
+  {
+    "id": "RB-001",
+    "name": "Credential Abuse / Identity Control Response",
+    "scope": "credential_abuse",
+    "version": "2.1",
+    "owner": "CloudSec",
+    "last_validated": "2026-01-28T09:00:00"
+  },
+  {
+    "id": "RB-002",
+    "name": "Cloud Permission Misconfiguration Response",
+    "scope": "cloud_misconfiguration",
+    "version": "2.1",
+    "owner": "Platform",
+    "last_validated": "2026-02-04T09:00:00"
+  },
+  {
+    "id": "RB-003",
+    "name": "Suspicious Service Account Activity Response",
+    "scope": "service_account_abuse",
+    "version": "2.1",
+    "owner": "CloudSec",
+    "last_validated": "2026-02-11T09:00:00"
+  },
+  {
+    "id": "RB-004",
+    "name": "Exposed API Credential Response",
+    "scope": "api_credential_exposure",
+    "version": "2.1",
+    "owner": "SRE",
+    "last_validated": "2026-02-18T09:00:00"
+  },
+  {
+    "id": "RB-005",
+    "name": "Lateral Movement Response",
+    "scope": "lateral_movement",
+    "version": "2.1",
+    "owner": "Platform",
+    "last_validated": "2026-02-25T09:00:00"
+  }
+]

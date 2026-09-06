@@ -1,0 +1,16 @@
+{
+  "seed": 20260906,
+  "counts": {
+    "assets": 30,
+    "detection_rules": 22,
+    "runbooks": 5,
+    "incidents": 115,
+    "alerts": 250,
+    "tickets": 100,
+    "changes": 120,
+    "remediations": 100,
+    "evidence": 100
+  },
+  "ground_truth_file": "ground_truth.json",
+  "rule": "ground_truth.json is for eval only; application runtime must never load it."
+}

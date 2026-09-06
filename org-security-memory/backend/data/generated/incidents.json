@@ -1,0 +1,2532 @@
+[
+  {
+    "id": "INC-0001",
+    "timestamp": "2026-01-10T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-006, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-006"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0002",
+    "timestamp": "2026-01-20T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-002",
+    "description": "Observed credential abuse / identity control involving AST-002, user-028, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-002 recurring security incident",
+    "asset_ids": [
+      "AST-002"
+    ],
+    "user_ids": [
+      "user-028"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0003",
+    "timestamp": "2026-01-28T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-007, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0004",
+    "timestamp": "2026-02-09T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-033, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-033"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0005",
+    "timestamp": "2026-02-19T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-034, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-034"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0006",
+    "timestamp": "2026-02-28T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-002",
+    "description": "Observed credential abuse / identity control involving AST-002, user-004, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-002 recurring security incident",
+    "asset_ids": [
+      "AST-002"
+    ],
+    "user_ids": [
+      "user-004"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0007",
+    "timestamp": "2026-03-03T09:00:00",
+    "severity": "low",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-029, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-029"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0008",
+    "timestamp": "2026-03-06T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-030, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-030"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0009",
+    "timestamp": "2026-03-10T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-033, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-033"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0010",
+    "timestamp": "2026-03-14T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-016, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0011",
+    "timestamp": "2026-03-23T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-002",
+    "description": "Observed credential abuse / identity control involving AST-002, user-016, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-002 recurring security incident",
+    "asset_ids": [
+      "AST-002"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0012",
+    "timestamp": "2026-03-29T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-026, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-026"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0013",
+    "timestamp": "2026-04-06T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-034, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-034"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0014",
+    "timestamp": "2026-04-13T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-006, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-006"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0015",
+    "timestamp": "2026-04-20T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-037, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Reset affected credentials and temporarily disable the account.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-037"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0016",
+    "timestamp": "2026-05-16T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-002",
+    "description": "Observed credential abuse / identity control involving AST-002, user-012, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Enforce phishing-resistant MFA and tighten identity policy.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-002 recurring security incident",
+    "asset_ids": [
+      "AST-002"
+    ],
+    "user_ids": [
+      "user-012"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0017",
+    "timestamp": "2026-06-19T09:00:00",
+    "severity": "high",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-011, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Enforce phishing-resistant MFA and tighten identity policy.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-011"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0018",
+    "timestamp": "2026-07-30T09:00:00",
+    "severity": "critical",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-002",
+    "description": "Observed credential abuse / identity control involving AST-002, user-019, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Enforce phishing-resistant MFA and tighten identity policy.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-002 recurring security incident",
+    "asset_ids": [
+      "AST-002"
+    ],
+    "user_ids": [
+      "user-019"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0019",
+    "timestamp": "2026-08-21T09:00:00",
+    "severity": "medium",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-027",
+    "description": "Observed credential abuse / identity control involving AST-027, user-007, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Enforce phishing-resistant MFA and tighten identity policy.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-027 recurring security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0020",
+    "timestamp": "2026-09-29T09:00:00",
+    "severity": "critical",
+    "category": "credential_abuse",
+    "title": "Credential Abuse / Identity Control event affecting AST-001",
+    "description": "Observed credential abuse / identity control involving AST-001, user-018, technique T1110.",
+    "root_cause": "Recurring organizational pattern associated with credential abuse / identity control.",
+    "remediation": "Enforce phishing-resistant MFA and tighten identity policy.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-IDENTITY-01",
+    "embedding_text": "Credential Abuse / Identity Control credential_abuse T1110 AST-001 recurring security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-018"
+    ],
+    "techniques": [
+      "T1110"
+    ]
+  },
+  {
+    "id": "INC-0021",
+    "timestamp": "2026-01-17T09:00:00",
+    "severity": "medium",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-032, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-032"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0022",
+    "timestamp": "2026-01-24T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-026",
+    "description": "Observed cloud permission misconfiguration involving AST-026, user-009, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-026 recurring security incident",
+    "asset_ids": [
+      "AST-026"
+    ],
+    "user_ids": [
+      "user-009"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0023",
+    "timestamp": "2026-01-31T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-005",
+    "description": "Observed cloud permission misconfiguration involving AST-005, user-002, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-005 recurring security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-002"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0024",
+    "timestamp": "2026-02-14T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-005",
+    "description": "Observed cloud permission misconfiguration involving AST-005, user-020, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-005 recurring security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-020"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0025",
+    "timestamp": "2026-02-26T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-024, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-024"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0026",
+    "timestamp": "2026-03-07T09:00:00",
+    "severity": "medium",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-026",
+    "description": "Observed cloud permission misconfiguration involving AST-026, user-006, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-026 recurring security incident",
+    "asset_ids": [
+      "AST-026"
+    ],
+    "user_ids": [
+      "user-006"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0027",
+    "timestamp": "2026-03-14T09:00:00",
+    "severity": "medium",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-005",
+    "description": "Observed cloud permission misconfiguration involving AST-005, user-030, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-005 recurring security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-030"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0028",
+    "timestamp": "2026-03-20T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-025, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-025"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0029",
+    "timestamp": "2026-03-24T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-004, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-004"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0030",
+    "timestamp": "2026-04-02T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-026",
+    "description": "Observed cloud permission misconfiguration involving AST-026, user-029, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-026 recurring security incident",
+    "asset_ids": [
+      "AST-026"
+    ],
+    "user_ids": [
+      "user-029"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0031",
+    "timestamp": "2026-04-11T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-026",
+    "description": "Observed cloud permission misconfiguration involving AST-026, user-038, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-026 recurring security incident",
+    "asset_ids": [
+      "AST-026"
+    ],
+    "user_ids": [
+      "user-038"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0032",
+    "timestamp": "2026-04-16T09:00:00",
+    "severity": "medium",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-005",
+    "description": "Observed cloud permission misconfiguration involving AST-005, user-022, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-005 recurring security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-022"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0033",
+    "timestamp": "2026-04-22T09:00:00",
+    "severity": "medium",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-004, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-004"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0034",
+    "timestamp": "2026-04-30T09:00:00",
+    "severity": "critical",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-005",
+    "description": "Observed cloud permission misconfiguration involving AST-005, user-024, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-005 recurring security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-024"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0035",
+    "timestamp": "2026-05-07T09:00:00",
+    "severity": "low",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-036, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Revert the permission change and remove the exception.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-036"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0036",
+    "timestamp": "2026-06-16T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-038, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Deploy least-privilege guardrails and continuous IAM drift detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-038"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0037",
+    "timestamp": "2026-07-19T09:00:00",
+    "severity": "medium",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-026",
+    "description": "Observed cloud permission misconfiguration involving AST-026, user-004, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Deploy least-privilege guardrails and continuous IAM drift detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-026 recurring security incident",
+    "asset_ids": [
+      "AST-026"
+    ],
+    "user_ids": [
+      "user-004"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0038",
+    "timestamp": "2026-08-13T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-002, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Deploy least-privilege guardrails and continuous IAM drift detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-002"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0039",
+    "timestamp": "2026-09-13T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-026",
+    "description": "Observed cloud permission misconfiguration involving AST-026, user-037, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Deploy least-privilege guardrails and continuous IAM drift detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-026 recurring security incident",
+    "asset_ids": [
+      "AST-026"
+    ],
+    "user_ids": [
+      "user-037"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0040",
+    "timestamp": "2026-10-17T09:00:00",
+    "severity": "high",
+    "category": "cloud_misconfiguration",
+    "title": "Cloud Permission Misconfiguration event affecting AST-006",
+    "description": "Observed cloud permission misconfiguration involving AST-006, user-016, technique T1548.",
+    "root_cause": "Recurring organizational pattern associated with cloud permission misconfiguration.",
+    "remediation": "Deploy least-privilege guardrails and continuous IAM drift detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-CLOUD-01",
+    "embedding_text": "Cloud Permission Misconfiguration cloud_misconfiguration T1548 AST-006 recurring security incident",
+    "asset_ids": [
+      "AST-006"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1548"
+    ]
+  },
+  {
+    "id": "INC-0041",
+    "timestamp": "2026-01-13T09:00:00",
+    "severity": "medium",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-022",
+    "description": "Observed suspicious service account activity involving AST-022, user-030, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-022 recurring security incident",
+    "asset_ids": [
+      "AST-022"
+    ],
+    "user_ids": [
+      "user-030"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0042",
+    "timestamp": "2026-01-23T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-022",
+    "description": "Observed suspicious service account activity involving AST-022, user-009, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-022 recurring security incident",
+    "asset_ids": [
+      "AST-022"
+    ],
+    "user_ids": [
+      "user-009"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0043",
+    "timestamp": "2026-02-08T09:00:00",
+    "severity": "low",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-022",
+    "description": "Observed suspicious service account activity involving AST-022, user-016, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-022 recurring security incident",
+    "asset_ids": [
+      "AST-022"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0044",
+    "timestamp": "2026-02-17T09:00:00",
+    "severity": "critical",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-032, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-032"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0045",
+    "timestamp": "2026-02-26T09:00:00",
+    "severity": "critical",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-004",
+    "description": "Observed suspicious service account activity involving AST-004, user-018, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-004 recurring security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-018"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0046",
+    "timestamp": "2026-03-14T09:00:00",
+    "severity": "medium",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-040, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-040"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0047",
+    "timestamp": "2026-03-18T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-039, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-039"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0048",
+    "timestamp": "2026-03-27T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-025, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-025"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0049",
+    "timestamp": "2026-04-03T09:00:00",
+    "severity": "medium",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-022",
+    "description": "Observed suspicious service account activity involving AST-022, user-018, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-022 recurring security incident",
+    "asset_ids": [
+      "AST-022"
+    ],
+    "user_ids": [
+      "user-018"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0050",
+    "timestamp": "2026-04-06T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-004",
+    "description": "Observed suspicious service account activity involving AST-004, user-006, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-004 recurring security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-006"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0051",
+    "timestamp": "2026-04-15T09:00:00",
+    "severity": "medium",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-004",
+    "description": "Observed suspicious service account activity involving AST-004, user-013, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-004 recurring security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-013"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0052",
+    "timestamp": "2026-04-19T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-030, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-030"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0053",
+    "timestamp": "2026-04-28T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-011, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-011"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0054",
+    "timestamp": "2026-05-04T09:00:00",
+    "severity": "low",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-004",
+    "description": "Observed suspicious service account activity involving AST-004, user-005, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-004 recurring security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-005"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0055",
+    "timestamp": "2026-05-11T09:00:00",
+    "severity": "low",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-004",
+    "description": "Observed suspicious service account activity involving AST-004, user-034, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Rotate the service-account secret.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-004 recurring security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-034"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0056",
+    "timestamp": "2026-06-02T09:00:00",
+    "severity": "medium",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-028, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Move to workload identity with scoped permissions and anomaly detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-028"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0057",
+    "timestamp": "2026-07-09T09:00:00",
+    "severity": "critical",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-022",
+    "description": "Observed suspicious service account activity involving AST-022, user-001, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Move to workload identity with scoped permissions and anomaly detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-022 recurring security incident",
+    "asset_ids": [
+      "AST-022"
+    ],
+    "user_ids": [
+      "user-001"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0058",
+    "timestamp": "2026-08-19T09:00:00",
+    "severity": "low",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-007, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Move to workload identity with scoped permissions and anomaly detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0059",
+    "timestamp": "2026-09-30T09:00:00",
+    "severity": "medium",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-004",
+    "description": "Observed suspicious service account activity involving AST-004, user-028, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Move to workload identity with scoped permissions and anomaly detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-004 recurring security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-028"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0060",
+    "timestamp": "2026-11-03T09:00:00",
+    "severity": "high",
+    "category": "service_account_abuse",
+    "title": "Suspicious Service Account Activity event affecting AST-003",
+    "description": "Observed suspicious service account activity involving AST-003, user-036, technique T1550.",
+    "root_cause": "Recurring organizational pattern associated with suspicious service account activity.",
+    "remediation": "Move to workload identity with scoped permissions and anomaly detection.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-SVC-01",
+    "embedding_text": "Suspicious Service Account Activity service_account_abuse T1550 AST-003 recurring security incident",
+    "asset_ids": [
+      "AST-003"
+    ],
+    "user_ids": [
+      "user-036"
+    ],
+    "techniques": [
+      "T1550"
+    ]
+  },
+  {
+    "id": "INC-0061",
+    "timestamp": "2026-01-17T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-007",
+    "description": "Observed exposed api credential involving AST-007, user-035, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-007 recurring security incident",
+    "asset_ids": [
+      "AST-007"
+    ],
+    "user_ids": [
+      "user-035"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0062",
+    "timestamp": "2026-01-27T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-007, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0063",
+    "timestamp": "2026-02-04T09:00:00",
+    "severity": "medium",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-016, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0064",
+    "timestamp": "2026-02-11T09:00:00",
+    "severity": "low",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-033, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-033"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0065",
+    "timestamp": "2026-02-19T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-007",
+    "description": "Observed exposed api credential involving AST-007, user-007, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-007 recurring security incident",
+    "asset_ids": [
+      "AST-007"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0066",
+    "timestamp": "2026-02-28T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-007",
+    "description": "Observed exposed api credential involving AST-007, user-008, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-007 recurring security incident",
+    "asset_ids": [
+      "AST-007"
+    ],
+    "user_ids": [
+      "user-008"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0067",
+    "timestamp": "2026-03-09T09:00:00",
+    "severity": "medium",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-007",
+    "description": "Observed exposed api credential involving AST-007, user-008, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-007 recurring security incident",
+    "asset_ids": [
+      "AST-007"
+    ],
+    "user_ids": [
+      "user-008"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0068",
+    "timestamp": "2026-03-14T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-013, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-013"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0069",
+    "timestamp": "2026-03-18T09:00:00",
+    "severity": "low",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-005, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-005"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0070",
+    "timestamp": "2026-03-25T09:00:00",
+    "severity": "medium",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-011, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-011"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0071",
+    "timestamp": "2026-03-31T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-016, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0072",
+    "timestamp": "2026-04-08T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-026, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-026"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0073",
+    "timestamp": "2026-04-14T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-006, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-006"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0074",
+    "timestamp": "2026-04-19T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-025, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-025"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0075",
+    "timestamp": "2026-04-27T09:00:00",
+    "severity": "critical",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-037, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Revoke and reissue the exposed API key.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-037"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0076",
+    "timestamp": "2026-05-19T09:00:00",
+    "severity": "low",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-031, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Remove long-lived keys and use short-lived workload credentials.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-031"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0077",
+    "timestamp": "2026-06-27T09:00:00",
+    "severity": "medium",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-040, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Remove long-lived keys and use short-lived workload credentials.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-040"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0078",
+    "timestamp": "2026-07-22T09:00:00",
+    "severity": "critical",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-007",
+    "description": "Observed exposed api credential involving AST-007, user-017, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Remove long-lived keys and use short-lived workload credentials.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-007 recurring security incident",
+    "asset_ids": [
+      "AST-007"
+    ],
+    "user_ids": [
+      "user-017"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0079",
+    "timestamp": "2026-08-13T09:00:00",
+    "severity": "medium",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-023",
+    "description": "Observed exposed api credential involving AST-023, user-011, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Remove long-lived keys and use short-lived workload credentials.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-023 recurring security incident",
+    "asset_ids": [
+      "AST-023"
+    ],
+    "user_ids": [
+      "user-011"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0080",
+    "timestamp": "2026-09-14T09:00:00",
+    "severity": "high",
+    "category": "api_credential_exposure",
+    "title": "Exposed API Credential event affecting AST-008",
+    "description": "Observed exposed api credential involving AST-008, user-011, technique T1552.",
+    "root_cause": "Recurring organizational pattern associated with exposed api credential.",
+    "remediation": "Remove long-lived keys and use short-lived workload credentials.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-API-01",
+    "embedding_text": "Exposed API Credential api_credential_exposure T1552 AST-008 recurring security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-011"
+    ],
+    "techniques": [
+      "T1552"
+    ]
+  },
+  {
+    "id": "INC-0081",
+    "timestamp": "2026-01-23T09:00:00",
+    "severity": "medium",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-039, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-039"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0082",
+    "timestamp": "2026-02-06T09:00:00",
+    "severity": "medium",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-038, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-038"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0083",
+    "timestamp": "2026-02-14T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-024, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-024"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0084",
+    "timestamp": "2026-02-23T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-003, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-003"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0085",
+    "timestamp": "2026-03-02T09:00:00",
+    "severity": "critical",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-006, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-006"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0086",
+    "timestamp": "2026-03-13T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-020, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-020"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0087",
+    "timestamp": "2026-03-17T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-029, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-029"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0088",
+    "timestamp": "2026-03-26T09:00:00",
+    "severity": "medium",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-029, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-029"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0089",
+    "timestamp": "2026-03-30T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-038, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-038"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0090",
+    "timestamp": "2026-04-02T09:00:00",
+    "severity": "critical",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-034, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-034"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0091",
+    "timestamp": "2026-04-05T09:00:00",
+    "severity": "medium",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-033, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-033"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0092",
+    "timestamp": "2026-04-11T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-007, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0093",
+    "timestamp": "2026-04-19T09:00:00",
+    "severity": "low",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-031, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-031"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0094",
+    "timestamp": "2026-04-28T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-001, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-001"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0095",
+    "timestamp": "2026-05-08T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-030, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Isolate the host and block the observed source.",
+    "outcome": "Temporary reduction; similar activity recurred.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-030"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0096",
+    "timestamp": "2026-06-05T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-002, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Segment administrative paths and add east-west behavioral correlation.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-002"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0097",
+    "timestamp": "2026-07-16T09:00:00",
+    "severity": "medium",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-004, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Segment administrative paths and add east-west behavioral correlation.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-004"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0098",
+    "timestamp": "2026-08-10T09:00:00",
+    "severity": "medium",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-013, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Segment administrative paths and add east-west behavioral correlation.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-013"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0099",
+    "timestamp": "2026-09-05T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-016, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Segment administrative paths and add east-west behavioral correlation.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-016"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0100",
+    "timestamp": "2026-10-05T09:00:00",
+    "severity": "high",
+    "category": "lateral_movement",
+    "title": "Lateral Movement event affecting AST-021",
+    "description": "Observed lateral movement involving AST-021, user-008, technique T1021.",
+    "root_cause": "Recurring organizational pattern associated with lateral movement.",
+    "remediation": "Segment administrative paths and add east-west behavioral correlation.",
+    "outcome": "No same-family recurrence observed in the recovery window.",
+    "family_id": "FAM-LAT-01",
+    "embedding_text": "Lateral Movement lateral_movement T1021 AST-021 recurring security incident",
+    "asset_ids": [
+      "AST-021"
+    ],
+    "user_ids": [
+      "user-008"
+    ],
+    "techniques": [
+      "T1021"
+    ]
+  },
+  {
+    "id": "INC-0101",
+    "timestamp": "2026-01-03T09:00:00",
+    "severity": "medium",
+    "category": "malware",
+    "title": "Independent malware event",
+    "description": "Independent malware event using T1204.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "malware T1204 independent security incident",
+    "asset_ids": [
+      "AST-024"
+    ],
+    "user_ids": [
+      "user-001"
+    ],
+    "techniques": [
+      "T1204"
+    ]
+  },
+  {
+    "id": "INC-0102",
+    "timestamp": "2026-01-09T09:00:00",
+    "severity": "medium",
+    "category": "phishing",
+    "title": "Independent phishing event",
+    "description": "Independent phishing event using T1566.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "phishing T1566 independent security incident",
+    "asset_ids": [
+      "AST-017"
+    ],
+    "user_ids": [
+      "user-039"
+    ],
+    "techniques": [
+      "T1566"
+    ]
+  },
+  {
+    "id": "INC-0103",
+    "timestamp": "2026-01-15T09:00:00",
+    "severity": "medium",
+    "category": "data_exfiltration",
+    "title": "Independent data_exfiltration event",
+    "description": "Independent data_exfiltration event using T1041.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "data_exfiltration T1041 independent security incident",
+    "asset_ids": [
+      "AST-010"
+    ],
+    "user_ids": [
+      "user-018"
+    ],
+    "techniques": [
+      "T1041"
+    ]
+  },
+  {
+    "id": "INC-0104",
+    "timestamp": "2026-01-21T09:00:00",
+    "severity": "medium",
+    "category": "persistence",
+    "title": "Independent persistence event",
+    "description": "Independent persistence event using T1547.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "persistence T1547 independent security incident",
+    "asset_ids": [
+      "AST-015"
+    ],
+    "user_ids": [
+      "user-020"
+    ],
+    "techniques": [
+      "T1547"
+    ]
+  },
+  {
+    "id": "INC-0105",
+    "timestamp": "2026-01-27T09:00:00",
+    "severity": "low",
+    "category": "dns_anomaly",
+    "title": "Independent dns_anomaly event",
+    "description": "Independent dns_anomaly event using T1071.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "dns_anomaly T1071 independent security incident",
+    "asset_ids": [
+      "AST-002"
+    ],
+    "user_ids": [
+      "user-030"
+    ],
+    "techniques": [
+      "T1071"
+    ]
+  },
+  {
+    "id": "INC-0106",
+    "timestamp": "2026-02-02T09:00:00",
+    "severity": "high",
+    "category": "malware",
+    "title": "Independent malware event",
+    "description": "Independent malware event using T1204.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "malware T1204 independent security incident",
+    "asset_ids": [
+      "AST-022"
+    ],
+    "user_ids": [
+      "user-008"
+    ],
+    "techniques": [
+      "T1204"
+    ]
+  },
+  {
+    "id": "INC-0107",
+    "timestamp": "2026-02-08T09:00:00",
+    "severity": "medium",
+    "category": "phishing",
+    "title": "Independent phishing event",
+    "description": "Independent phishing event using T1566.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "phishing T1566 independent security incident",
+    "asset_ids": [
+      "AST-001"
+    ],
+    "user_ids": [
+      "user-005"
+    ],
+    "techniques": [
+      "T1566"
+    ]
+  },
+  {
+    "id": "INC-0108",
+    "timestamp": "2026-02-14T09:00:00",
+    "severity": "low",
+    "category": "data_exfiltration",
+    "title": "Independent data_exfiltration event",
+    "description": "Independent data_exfiltration event using T1041.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "data_exfiltration T1041 independent security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-004"
+    ],
+    "techniques": [
+      "T1041"
+    ]
+  },
+  {
+    "id": "INC-0109",
+    "timestamp": "2026-02-20T09:00:00",
+    "severity": "low",
+    "category": "persistence",
+    "title": "Independent persistence event",
+    "description": "Independent persistence event using T1547.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "persistence T1547 independent security incident",
+    "asset_ids": [
+      "AST-015"
+    ],
+    "user_ids": [
+      "user-008"
+    ],
+    "techniques": [
+      "T1547"
+    ]
+  },
+  {
+    "id": "INC-0110",
+    "timestamp": "2026-02-26T09:00:00",
+    "severity": "low",
+    "category": "dns_anomaly",
+    "title": "Independent dns_anomaly event",
+    "description": "Independent dns_anomaly event using T1071.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "dns_anomaly T1071 independent security incident",
+    "asset_ids": [
+      "AST-027"
+    ],
+    "user_ids": [
+      "user-012"
+    ],
+    "techniques": [
+      "T1071"
+    ]
+  },
+  {
+    "id": "INC-0111",
+    "timestamp": "2026-03-04T09:00:00",
+    "severity": "low",
+    "category": "malware",
+    "title": "Independent malware event",
+    "description": "Independent malware event using T1204.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "malware T1204 independent security incident",
+    "asset_ids": [
+      "AST-017"
+    ],
+    "user_ids": [
+      "user-034"
+    ],
+    "techniques": [
+      "T1204"
+    ]
+  },
+  {
+    "id": "INC-0112",
+    "timestamp": "2026-03-10T09:00:00",
+    "severity": "high",
+    "category": "phishing",
+    "title": "Independent phishing event",
+    "description": "Independent phishing event using T1566.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "phishing T1566 independent security incident",
+    "asset_ids": [
+      "AST-004"
+    ],
+    "user_ids": [
+      "user-035"
+    ],
+    "techniques": [
+      "T1566"
+    ]
+  },
+  {
+    "id": "INC-0113",
+    "timestamp": "2026-03-16T09:00:00",
+    "severity": "low",
+    "category": "data_exfiltration",
+    "title": "Independent data_exfiltration event",
+    "description": "Independent data_exfiltration event using T1041.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "data_exfiltration T1041 independent security incident",
+    "asset_ids": [
+      "AST-010"
+    ],
+    "user_ids": [
+      "user-034"
+    ],
+    "techniques": [
+      "T1041"
+    ]
+  },
+  {
+    "id": "INC-0114",
+    "timestamp": "2026-03-22T09:00:00",
+    "severity": "medium",
+    "category": "persistence",
+    "title": "Independent persistence event",
+    "description": "Independent persistence event using T1547.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "persistence T1547 independent security incident",
+    "asset_ids": [
+      "AST-005"
+    ],
+    "user_ids": [
+      "user-026"
+    ],
+    "techniques": [
+      "T1547"
+    ]
+  },
+  {
+    "id": "INC-0115",
+    "timestamp": "2026-03-28T09:00:00",
+    "severity": "medium",
+    "category": "dns_anomaly",
+    "title": "Independent dns_anomaly event",
+    "description": "Independent dns_anomaly event using T1071.",
+    "root_cause": "Independent event.",
+    "remediation": "Contain and investigate.",
+    "outcome": "Resolved.",
+    "family_id": null,
+    "embedding_text": "dns_anomaly T1071 independent security incident",
+    "asset_ids": [
+      "AST-008"
+    ],
+    "user_ids": [
+      "user-007"
+    ],
+    "techniques": [
+      "T1071"
+    ]
+  }
+]
